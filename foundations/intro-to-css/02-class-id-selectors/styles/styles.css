@@ -1,0 +1,20 @@
+.odds {
+    background-color:lightcoral;
+    font-family: "Verdana","DejaVu Sans", "sans-serif";
+}
+
+.size{
+    font-size: 24px;
+}
+
+
+#blue{
+    color: blue;
+    font-size: 36px;
+}
+
+#even{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
