@@ -39,3 +39,9 @@ ul {
   padding: 0;
   gap: 8px;
 }
+
+.left, .right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
